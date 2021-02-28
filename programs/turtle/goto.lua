@@ -1,5 +1,3 @@
-rednet.open("left")
-
 tArgs = { ... }
 
 local goTo =  {}
